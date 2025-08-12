@@ -1,1 +1,1 @@
-Sitemap: https://superfancywebsite.netlify.app/sitemap.xml
+Sitemap: https://zealousdigitalsolutions.netlify.app/sitemap.xml
